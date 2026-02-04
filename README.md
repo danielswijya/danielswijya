@@ -36,25 +36,25 @@ I bounce between software, product, data, and systems — usually wherever the p
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/381bb64e-7a50-469a-abf0-4f633e8933c3" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/408d9a9b-1b98-42a4-883d-673f6ef71e2f" />
 
-# Frontend & UI
+#### Frontend & UI
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/27c58df8-3238-41f9-a0bf-4a6997305c72" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e83321b1-b544-469d-9641-8c05b39770e3" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9373d0fe-3c78-4eae-a5bb-f9af99b7c1db" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c83b67a8-f47e-40d9-982c-4db8ad55fb86" />
 
-# Backend, APIs & RDBMSes
+#### Backend, APIs & RDBMSes
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b0b9bafa-f8a7-46fd-8b29-6a3dfcdeace7" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2a938763-6814-436d-89a0-55fe71e65fee" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7b614960-55fc-45d9-8fb0-5e50a87b2571" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/40ba4af0-54fe-4afa-93a1-d475d71dce03" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a7fc0336-ca1c-4085-9537-67a434823f63" />
 
-# AI, ML & Agentic Pipelines
+#### AI, ML & Agentic Pipelines
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1b15a134-5fbf-42db-92b0-a3c224680af9" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c77407c7-a92b-47ef-8b9c-d7cfb1e93d41" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bad0d5d4-0146-480a-be91-178e73a6ead7" />
 
-# Infrastructure, Deployment, Hosting & Networking Platforms
+#### Infrastructure, Deployment, Hosting & Networking Platforms
 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ae99509c-c0c3-4614-91ec-3df7a8980896" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ce90afae-2c83-49a5-95f3-566353cc1428" />
