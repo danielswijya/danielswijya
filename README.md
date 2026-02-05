@@ -85,7 +85,6 @@ and many more...
 ### 📬 find me and connect!
 
 <a href="mailto:dan.sam.wijaya@gmail.com">
-  dan.sam.wijaya@gmail.com
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/69261bef-1a27-4f03-929a-0f2806fbc28c" />
 </a>
 
